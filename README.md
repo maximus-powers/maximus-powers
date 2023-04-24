@@ -1,7 +1,7 @@
 ### Hey there 👋
 - 📅 Super excited for Consensus 2023, Austin TX
 - 👨‍💻 Working on my Web3 stack everyday
-- 🗽 Software Engineering Intern, Ocean Power Technologies Summer 2023
+- 🗽 Software Engineer
 - 🎓 Clarkson University Class of 2023: Business Intelligence and Data Analytics, Information Technology
 - 🔭 I'm a space nerd, so some repos are named after space missions
 
