@@ -2,7 +2,7 @@
 - 📅 Super excited for Consensus 2023, Austin TX
 - 👨‍💻 Working on my Web3 stack everyday
 - 🗽 Software Engineer
-- 🎓 Clarkson University Class of 2023: Business Intelligence and Data Analytics, Information Technology
+- 🎓 Clarkson University Class of 2023
 - 🔭 I'm a space nerd, so some repos are named after space missions
 
 
