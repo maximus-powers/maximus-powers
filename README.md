@@ -3,7 +3,7 @@
 - 👨‍💻 Working on my Web3 stack everyday
 - 🗽 Software Engineering Intern, Ocean Power Technologies Summer 2023
 - 🎓 Clarkson University Class of 2023: Business Intelligence and Data Analytics, Information Technology
-- 🔭 Fun fact: I'm a space nerd, so some repos are named after space missions
+- 🔭 I'm a space nerd, so some repos are named after space missions
 
 
 <!--
