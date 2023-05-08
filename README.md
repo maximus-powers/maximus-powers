@@ -1,5 +1,5 @@
 ### Hey there 👋
-- 📅 Super excited for Consensus 2023, Austin TX
+- 📅 Just got back from Consensus 2023, Austin TX
 - 👨‍💻 Working on my Web3 stack everyday
 - 🗽 Software Engineer
 - 🎓 Clarkson University Class of 2023
