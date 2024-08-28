@@ -1,7 +1,7 @@
 ### Hey there 👋
-- 🗽 Software Engineer
+- 🗽 New yorker
 - 🎓 Clarkson University Class of 2023
-- 🔭 I'm a space nerd, so some repos are named after space missions
+- 🌱 Currently working on: [Bias detection](https://github.com/Ethical-Spectacle/bias-detection/tree/main)
 
 
 <!--
