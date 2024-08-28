@@ -1,7 +1,7 @@
 ### Hey there 👋
 - 🗽 New yorker
 - 🎓 Clarkson University Class of 2023
-- 🌱 Currently working on: [Bias detection](https://github.com/Ethical-Spectacle/bias-detection/tree/main)
+- Currently working on: [🔍bias detection](https://github.com/Ethical-Spectacle/bias-detection/tree/main), [☕️hackathon](https://ethicalspectacle.org/hackathon?id=8) planning, [blogs](https://www.linkedin.com/pulse/social-bias-word-level-ner-maximus-powers-dpzbe/) + writing our paper :)
 
 
 <!--
